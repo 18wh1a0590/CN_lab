@@ -52,3 +52,12 @@ int main() {
 	printf("\n");
 	return 0;
     }
+    
+    
+output:
+enter the data:11011
+enter the key:11011
+
+Quotient is 10000
+Remainder is 0000
+Final data is: 110110000
