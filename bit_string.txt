@@ -28,3 +28,8 @@ int main(){
 	return 0;
 		
 }
+
+output:
+enter the bits:10101111110
+01111110 101011111010 01111110
+
