@@ -75,3 +75,16 @@ int main() {
 	printf("\n\n");
 	return 0;
 }
+
+output:
+Enter the message: welcome to computer networks lab
+
+After assigning sequence numbers:
+0:wel 1:com 2:e t 3:o c 4:omp 5:ute 6:r n 7:etw 8:ork 9:s l 10:ab
+
+AFTER SHUFFLING:
+8:ork 9:s l 1:com 7:etw 5:ute 10:ab 0:wel 6:r n 3:o c 2:e t 4:omp
+
+AFTER SORTING
+welcome to computer networks lab
+
