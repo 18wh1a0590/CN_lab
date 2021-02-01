@@ -82,3 +82,11 @@ int main() {
 	return 0;
 }
 }
+
+output:
+Enter the characters :goodday
+Enter a charcter that represents starting delimiter:d
+Enter a character that represents ending delimiter:g
+Enter a character that is to be stuffed:goodday
+
+After Stuffing: dgooddaygg
